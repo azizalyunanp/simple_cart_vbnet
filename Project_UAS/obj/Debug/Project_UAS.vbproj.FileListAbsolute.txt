@@ -1,0 +1,89 @@
+D:\kuliah\Semester 3\Database\UAS\Project_UAS\bin\Debug\Project_UAS.exe.config
+D:\kuliah\Semester 3\Database\UAS\Project_UAS\bin\Debug\Project_UAS.exe
+D:\kuliah\Semester 3\Database\UAS\Project_UAS\bin\Debug\Project_UAS.pdb
+D:\kuliah\Semester 3\Database\UAS\Project_UAS\bin\Debug\Project_UAS.xml
+D:\kuliah\Semester 3\Database\UAS\Project_UAS\obj\Debug\Project_UAS.Resources.resources
+D:\kuliah\Semester 3\Database\UAS\Project_UAS\obj\Debug\Project_UAS.vbproj.GenerateResource.Cache
+D:\kuliah\Semester 3\Database\UAS\Project_UAS\obj\Debug\Project_UAS.exe
+D:\kuliah\Semester 3\Database\UAS\Project_UAS\obj\Debug\Project_UAS.xml
+D:\kuliah\Semester 3\Database\UAS\Project_UAS\obj\Debug\Project_UAS.pdb
+D:\kuliah\Semester 3\Database\UAS\Project_UAS\obj\Debug\Project_UAS.frm_menu.resources
+D:\kuliah\Semester 3\Database\UAS\Project_UAS\obj\Debug\Project_UAS.pelanggan.resources
+D:\K A M P U S\SEMESTER 3\UAS_PDB\Project_UAS\bin\Debug\Project_UAS.exe.config
+D:\K A M P U S\SEMESTER 3\UAS_PDB\Project_UAS\obj\Debug\Project_UAS.exe
+D:\K A M P U S\SEMESTER 3\UAS_PDB\Project_UAS\obj\Debug\Project_UAS.xml
+D:\K A M P U S\SEMESTER 3\UAS_PDB\Project_UAS\obj\Debug\Project_UAS.pdb
+D:\K A M P U S\SEMESTER 3\UAS_PDB\Project_UAS\bin\Debug\Project_UAS.exe
+D:\K A M P U S\SEMESTER 3\UAS_PDB\Project_UAS\bin\Debug\Project_UAS.pdb
+D:\K A M P U S\SEMESTER 3\UAS_PDB\Project_UAS\bin\Debug\Project_UAS.xml
+D:\K A M P U S\SEMESTER 3\UAS_PDB\Project_UAS\obj\Debug\Project_UAS.barang.resources
+D:\K A M P U S\SEMESTER 3\UAS_PDB\Project_UAS\obj\Debug\Project_UAS.frm_menu.resources
+D:\K A M P U S\SEMESTER 3\UAS_PDB\Project_UAS\obj\Debug\Project_UAS.Resources.resources
+D:\K A M P U S\SEMESTER 3\UAS_PDB\Project_UAS\obj\Debug\Project_UAS.pelanggan.resources
+D:\K A M P U S\SEMESTER 3\UAS_PDB\Project_UAS\obj\Debug\Project_UAS.vbproj.GenerateResource.Cache
+D:\K A M P U S\SEMESTER 3\UAS_PDB\Project_UAS\obj\Debug\Project_UAS.pembelian.resources
+D:\K A M P U S\SEMESTER 3\UAS_PDB\Project_UAS\obj\Debug\Project_UAS.h_beli.resources
+D:\K A M P U S\SEMESTER 3\UAS_PDB\Project_UAS\obj\Debug\Project_UAS.vbprojResolveAssemblyReference.cache
+D:\kuliah\Semester 3\Database\UAS_PDB\Project_UAS\bin\Debug\Project_UAS.exe.config
+D:\kuliah\Semester 3\Database\UAS_PDB\Project_UAS\obj\Debug\Project_UAS.exe
+D:\kuliah\Semester 3\Database\UAS_PDB\Project_UAS\obj\Debug\Project_UAS.xml
+D:\kuliah\Semester 3\Database\UAS_PDB\Project_UAS\obj\Debug\Project_UAS.pdb
+D:\kuliah\Semester 3\Database\UAS_PDB\Project_UAS\bin\Debug\Project_UAS.exe
+D:\kuliah\Semester 3\Database\UAS_PDB\Project_UAS\bin\Debug\Project_UAS.pdb
+D:\kuliah\Semester 3\Database\UAS_PDB\Project_UAS\bin\Debug\Project_UAS.xml
+D:\kuliah\Semester 3\Database\UAS_PDB\Project_UAS\obj\Debug\Project_UAS.vbprojResolveAssemblyReference.cache
+D:\kuliah\Semester 3\Database\UAS_PDB\Project_UAS\obj\Debug\Project_UAS.barang.resources
+D:\kuliah\Semester 3\Database\UAS_PDB\Project_UAS\obj\Debug\Project_UAS.frm_menu.resources
+D:\kuliah\Semester 3\Database\UAS_PDB\Project_UAS\obj\Debug\Project_UAS.h_beli.resources
+D:\kuliah\Semester 3\Database\UAS_PDB\Project_UAS\obj\Debug\Project_UAS.Resources.resources
+D:\kuliah\Semester 3\Database\UAS_PDB\Project_UAS\obj\Debug\Project_UAS.pelanggan.resources
+D:\kuliah\Semester 3\Database\UAS_PDB\Project_UAS\obj\Debug\Project_UAS.pembelian.resources
+D:\kuliah\Semester 3\Database\UAS_PDB\Project_UAS\obj\Debug\Project_UAS.vbproj.GenerateResource.Cache
+D:\kuliah\Semester 3\Database\UAS_PDB\Project_UAS\obj\Debug\Project_UAS.suplier.resources
+D:\kuliah\Semester 3\Database\UAS_PDB\Project_UAS\obj\Debug\Project_UAS.report_brg.resources
+D:\kuliah\Semester 3\Database\UAS_PDB\Project_UAS\obj\Debug\Project_UAS.report_pel.resources
+D:\kuliah\Semester 3\Database\UAS_PDB\Project_UAS\obj\Debug\Project_UAS.report_sup.resources
+D:\kuliah\Semester 3\Database\UAS_PDB\Project_UAS\obj\Debug\Project_UAS.h_jual.resources
+D:\kuliah\Semester 3\Database\UAS_PDB\Project_UAS\obj\Debug\Project_UAS.penjualan.resources
+D:\kuliah\Semester 3\Database\UAS_PDB\Project_UAS\obj\Debug\Project_UAS.report_det_beli.resources
+D:\kuliah\Semester 3\Database\UAS_PDB\Project_UAS\obj\Debug\Project_UAS.report_det_jual.resources
+D:\kuliah\Semester 3\Database\UAS_PDB\Project_UAS\obj\Debug\Project_UAS.report_jual.resources
+D:\kuliah\Semester 3\Database\UAS_PDB\Project_UAS\obj\Debug\Project_UAS.report_h_beli.resources
+D:\kuliah\Semester 3\Database\UAS_PDB\Project_UAS\obj\Debug\Project_UAS.frm_login.resources
+D:\K A M P U S\SEMESTER 3\UAS_PDB\Project_UAS\obj\Debug\Project_UAS.frm_login.resources
+D:\K A M P U S\SEMESTER 3\UAS_PDB\Project_UAS\obj\Debug\Project_UAS.h_jual.resources
+D:\K A M P U S\SEMESTER 3\UAS_PDB\Project_UAS\obj\Debug\Project_UAS.penjualan.resources
+D:\K A M P U S\SEMESTER 3\UAS_PDB\Project_UAS\obj\Debug\Project_UAS.report_brg.resources
+D:\K A M P U S\SEMESTER 3\UAS_PDB\Project_UAS\obj\Debug\Project_UAS.report_det_beli.resources
+D:\K A M P U S\SEMESTER 3\UAS_PDB\Project_UAS\obj\Debug\Project_UAS.report_det_jual.resources
+D:\K A M P U S\SEMESTER 3\UAS_PDB\Project_UAS\obj\Debug\Project_UAS.report_h_beli.resources
+D:\K A M P U S\SEMESTER 3\UAS_PDB\Project_UAS\obj\Debug\Project_UAS.report_jual.resources
+D:\K A M P U S\SEMESTER 3\UAS_PDB\Project_UAS\obj\Debug\Project_UAS.report_pel.resources
+D:\K A M P U S\SEMESTER 3\UAS_PDB\Project_UAS\obj\Debug\Project_UAS.report_sup.resources
+D:\K A M P U S\SEMESTER 3\UAS_PDB\Project_UAS\obj\Debug\Project_UAS.suplier.resources
+E:\K A M P U S\SEMESTER 3\UAS_PDB\Project_UAS\bin\Debug\Project_UAS.exe.config
+E:\K A M P U S\SEMESTER 3\UAS_PDB\Project_UAS\obj\Debug\Project_UAS.xml
+E:\K A M P U S\SEMESTER 3\UAS_PDB\Project_UAS\obj\Debug\Project_UAS.pdb
+E:\K A M P U S\SEMESTER 3\UAS_PDB\Project_UAS\bin\Debug\Project_UAS.exe
+E:\K A M P U S\SEMESTER 3\UAS_PDB\Project_UAS\bin\Debug\Project_UAS.pdb
+E:\K A M P U S\SEMESTER 3\UAS_PDB\Project_UAS\bin\Debug\Project_UAS.xml
+E:\K A M P U S\SEMESTER 3\UAS_PDB\Project_UAS\obj\Debug\Project_UAS.vbprojResolveAssemblyReference.cache
+E:\K A M P U S\SEMESTER 3\UAS_PDB\Project_UAS\obj\Debug\Project_UAS.barang.resources
+E:\K A M P U S\SEMESTER 3\UAS_PDB\Project_UAS\obj\Debug\Project_UAS.frm_menu.resources
+E:\K A M P U S\SEMESTER 3\UAS_PDB\Project_UAS\obj\Debug\Project_UAS.frm_login.resources
+E:\K A M P U S\SEMESTER 3\UAS_PDB\Project_UAS\obj\Debug\Project_UAS.h_beli.resources
+E:\K A M P U S\SEMESTER 3\UAS_PDB\Project_UAS\obj\Debug\Project_UAS.h_jual.resources
+E:\K A M P U S\SEMESTER 3\UAS_PDB\Project_UAS\obj\Debug\Project_UAS.Resources.resources
+E:\K A M P U S\SEMESTER 3\UAS_PDB\Project_UAS\obj\Debug\Project_UAS.pelanggan.resources
+E:\K A M P U S\SEMESTER 3\UAS_PDB\Project_UAS\obj\Debug\Project_UAS.pembelian.resources
+E:\K A M P U S\SEMESTER 3\UAS_PDB\Project_UAS\obj\Debug\Project_UAS.penjualan.resources
+E:\K A M P U S\SEMESTER 3\UAS_PDB\Project_UAS\obj\Debug\Project_UAS.report_brg.resources
+E:\K A M P U S\SEMESTER 3\UAS_PDB\Project_UAS\obj\Debug\Project_UAS.report_det_beli.resources
+E:\K A M P U S\SEMESTER 3\UAS_PDB\Project_UAS\obj\Debug\Project_UAS.report_det_jual.resources
+E:\K A M P U S\SEMESTER 3\UAS_PDB\Project_UAS\obj\Debug\Project_UAS.report_h_beli.resources
+E:\K A M P U S\SEMESTER 3\UAS_PDB\Project_UAS\obj\Debug\Project_UAS.report_jual.resources
+E:\K A M P U S\SEMESTER 3\UAS_PDB\Project_UAS\obj\Debug\Project_UAS.report_pel.resources
+E:\K A M P U S\SEMESTER 3\UAS_PDB\Project_UAS\obj\Debug\Project_UAS.report_sup.resources
+E:\K A M P U S\SEMESTER 3\UAS_PDB\Project_UAS\obj\Debug\Project_UAS.suplier.resources
+E:\K A M P U S\SEMESTER 3\UAS_PDB\Project_UAS\obj\Debug\Project_UAS.vbproj.GenerateResource.Cache
+E:\K A M P U S\SEMESTER 3\UAS_PDB\Project_UAS\obj\Debug\Project_UAS.exe

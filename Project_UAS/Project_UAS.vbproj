@@ -1,0 +1,356 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{D5606207-DE55-4240-AC8C-5CD835FE9AF0}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>Project_UAS.My.MyApplication</StartupObject>
+    <RootNamespace>Project_UAS</RootNamespace>
+    <AssemblyName>Project_UAS</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>Project_UAS.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>Project_UAS.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="CrystalDecisions.CrystalReports.Engine, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.ReportSource, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.Shared, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.Windows.Forms, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="FlashControlV71, Version=1.0.3187.32366, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+    <Import Include="System.Threading.Tasks" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="barang.Designer.vb">
+      <DependentUpon>barang.vb</DependentUpon>
+    </Compile>
+    <Compile Include="barang.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="cr_Brg.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>cr_Brg.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="cr_det_beli.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>cr_det_beli.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="cr_Det_jual.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>cr_Det_jual.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="cr_hbeli.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>cr_hbeli.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="cr_hjual.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>cr_hjual.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="CR_jual.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>CR_jual.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Cr_pel.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Cr_pel.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="cr_sup.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>cr_sup.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Form1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.vb">
+      <DependentUpon>Form1.vb</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_login.Designer.vb">
+      <DependentUpon>frm_login.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frm_login.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="h_beli.Designer.vb">
+      <DependentUpon>h_beli.vb</DependentUpon>
+    </Compile>
+    <Compile Include="h_beli.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="h_jual.Designer.vb">
+      <DependentUpon>h_jual.vb</DependentUpon>
+    </Compile>
+    <Compile Include="h_jual.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Module1.vb" />
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="pelanggan.Designer.vb">
+      <DependentUpon>pelanggan.vb</DependentUpon>
+    </Compile>
+    <Compile Include="pelanggan.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="pembelian.Designer.vb">
+      <DependentUpon>pembelian.vb</DependentUpon>
+    </Compile>
+    <Compile Include="pembelian.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="penjualan.Designer.vb">
+      <DependentUpon>penjualan.vb</DependentUpon>
+    </Compile>
+    <Compile Include="penjualan.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="report_brg.Designer.vb">
+      <DependentUpon>report_brg.vb</DependentUpon>
+    </Compile>
+    <Compile Include="report_brg.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="report_det_beli.Designer.vb">
+      <DependentUpon>report_det_beli.vb</DependentUpon>
+    </Compile>
+    <Compile Include="report_det_beli.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="report_det_jual.Designer.vb">
+      <DependentUpon>report_det_jual.vb</DependentUpon>
+    </Compile>
+    <Compile Include="report_det_jual.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="report_h_beli.Designer.vb">
+      <DependentUpon>report_h_beli.vb</DependentUpon>
+    </Compile>
+    <Compile Include="report_h_beli.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="report_jual.Designer.vb">
+      <DependentUpon>report_jual.vb</DependentUpon>
+    </Compile>
+    <Compile Include="report_jual.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="report_pel.Designer.vb">
+      <DependentUpon>report_pel.vb</DependentUpon>
+    </Compile>
+    <Compile Include="report_pel.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="report_sup.Designer.vb">
+      <DependentUpon>report_sup.vb</DependentUpon>
+    </Compile>
+    <Compile Include="report_sup.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="suplier.Designer.vb">
+      <DependentUpon>suplier.vb</DependentUpon>
+    </Compile>
+    <Compile Include="suplier.vb">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="barang.resx">
+      <DependentUpon>barang.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="cr_Brg.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>cr_Brg.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="cr_det_beli.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>cr_det_beli.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="cr_Det_jual.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>cr_Det_jual.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="cr_hbeli.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>cr_hbeli.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="cr_hjual.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>cr_hjual.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CR_jual.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>CR_jual.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Cr_pel.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>Cr_pel.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="cr_sup.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>cr_sup.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_login.resx">
+      <DependentUpon>frm_login.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="h_beli.resx">
+      <DependentUpon>h_beli.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="h_jual.resx">
+      <DependentUpon>h_jual.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="pelanggan.resx">
+      <DependentUpon>pelanggan.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="pembelian.resx">
+      <DependentUpon>pembelian.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="penjualan.resx">
+      <DependentUpon>penjualan.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="report_brg.resx">
+      <DependentUpon>report_brg.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="report_det_beli.resx">
+      <DependentUpon>report_det_beli.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="report_det_jual.resx">
+      <DependentUpon>report_det_jual.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="report_h_beli.resx">
+      <DependentUpon>report_h_beli.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="report_jual.resx">
+      <DependentUpon>report_jual.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="report_pel.resx">
+      <DependentUpon>report_pel.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="report_sup.resx">
+      <DependentUpon>report_sup.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="suplier.resx">
+      <DependentUpon>suplier.vb</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\ROG.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{C0C07587-41A7-46C8-8FBD-3F9C8EBE2DDC}" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
